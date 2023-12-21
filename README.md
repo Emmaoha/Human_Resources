@@ -6,5 +6,19 @@
 4. New columns were created to enable the creation of measures
 5. DAX was used to create measures required for insight development
 6. Visuals were developed
+7. Tooltips were created to to have a broader view of visuals
+8. Drill through and drill down were created to to have granular insight from each visuals
+9. Q & A Section created to address and find any insight that is not already addressed.(Kindly ask the Q & A AI any question and the result will be fetched)
+# Insights
+1. There were more of male staff compared to female staff
+2. Highest number of staff were employed in the year 2017
+3. There are 100 staff and 5 managers in the organization
+
+
+
+
+# Recommendation
+1. There is need for company to embark on gender equality in the organization
+2. Organization need to look for the driver that led to many being employed in 2017 and try to replicate it
 
  
