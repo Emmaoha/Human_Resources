@@ -13,12 +13,11 @@
 1. There were more of male staff compared to female staff
 2. Highest number of staff were employed in the year 2017
 3. There are 100 staff and 5 managers in the organization
-
-
-
-
+4. Fred manages the highest number of staff
+5. Highest amount of salary was spent in2017
 # Recommendation
 1. There is need for company to embark on gender equality in the organization
 2. Organization need to look for the driver that led to many being employed in 2017 and try to replicate it
+3. Staff have to evenly distributed to ensure good management
 
  
